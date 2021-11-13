@@ -1,0 +1,2 @@
+copy boot\pxeboot.n12 boot\pxeboot.0
+copy boot\bootmgr.exe .\bootmgr.exe
